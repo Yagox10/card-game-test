@@ -1,0 +1,4 @@
+repository "card-game-server-side01@KEKKEIGENKAI@cloud"
+  path "/"
+    br "/main"
+    co "/main"

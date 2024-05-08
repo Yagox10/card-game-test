@@ -1,0 +1,2 @@
+Documentação projeto CG client-side
+Criado networkManager

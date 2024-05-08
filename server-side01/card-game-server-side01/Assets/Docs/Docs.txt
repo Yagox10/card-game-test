@@ -1,0 +1,3 @@
+Documentação do projeto CG server-side
+Criado singleton (GameName.core)
+Criado networkManager
